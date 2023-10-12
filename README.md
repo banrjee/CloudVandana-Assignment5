@@ -5,6 +5,7 @@ Java Solution
 3. PangramChecker.java File
    
 JavaScript Solution
+
 1.reverseWord.js File
 2.inputArray.js File
 
